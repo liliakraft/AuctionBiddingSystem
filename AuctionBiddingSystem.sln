@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionBiddingSystem", "AuctionBiddingSystem\AuctionBiddingSystem.csproj", "{BBA41675-E174-4E53-BB22-7C255979EC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionBiddingSystemTests", "AuctionBiddingSystemTests\AuctionBiddingSystemTests.csproj", "{FA4D3DD0-E9A7-4839-A547-82D22544347A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA41675-E174-4E53-BB22-7C255979EC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA41675-E174-4E53-BB22-7C255979EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA41675-E174-4E53-BB22-7C255979EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA41675-E174-4E53-BB22-7C255979EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4D3DD0-E9A7-4839-A547-82D22544347A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4D3DD0-E9A7-4839-A547-82D22544347A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4D3DD0-E9A7-4839-A547-82D22544347A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4D3DD0-E9A7-4839-A547-82D22544347A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

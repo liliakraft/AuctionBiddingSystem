@@ -1,0 +1,22 @@
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.csprojResolveAssemblyReference.cache
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystemTests.dll
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystemTests.pdb
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystem.dll
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\Moq.dll
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\nunit.framework.dll
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystem.pdb
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\Moq.xml
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\nunit.framework.xml
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.dll
+c:\users\lilia\documents\visual studio 2012\Projects\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.pdb
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystemTests.dll
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystemTests.pdb
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystem.dll
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\Moq.dll
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\nunit.framework.dll
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\AuctionBiddingSystem.pdb
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\Moq.xml
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\bin\Debug\nunit.framework.xml
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.dll
+C:\Users\Lilia\Documents\AuctionBiddingSystem\AuctionBiddingSystemTests\obj\Debug\AuctionBiddingSystemTests.pdb
